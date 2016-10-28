@@ -16,7 +16,7 @@ void fun( X &T){
 
 
 int main(){
-	//fun(X(123));				*** POPRAWKA WYKONANA ***
+	//fun(X(123));				*** POPRAWKA WYKONANA *** ABC
 
 	_getch();
 }
